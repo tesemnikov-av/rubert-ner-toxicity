@@ -24,4 +24,4 @@ for span in spans:
 show_span_box_markup(text, spans_list)
 ```
 ![toxic]('./img.png')
-<img src="img.png" width="150"/>
+<img src="img.png" width="400"/>
