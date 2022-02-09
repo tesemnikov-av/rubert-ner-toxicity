@@ -1,5 +1,9 @@
 # RuBert NER Toxicity
 
+Fine-tuning cointegrated/rubert-tiny-toxicity model on data from toxic_dataset_ner.
+
+<img src="img.png" width="700"/>
+
 ```python
 from ipymarkup import show_span_box_markup
 
@@ -23,5 +27,3 @@ for span in spans:
     
 show_span_box_markup(text, spans_list)
 ```
-![toxic]('./img.png')
-<img src="img.png" width="400"/>
