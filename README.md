@@ -1,6 +1,7 @@
 ![contributors](https://img.shields.io/github/contributors/tesemnikov-av/rubert-ner-toxicity) ![last-commit](https://img.shields.io/github/last-commit/tesemnikov-av/rubert-ner-toxicity) ![repo-size](https://img.shields.io/github/repo-size/tesemnikov-av/rubert-ner-toxicity)
 
 # RuBert NER Toxicity
+<img src="logo.png" width="700"/>
 
 Fine-tuning cointegrated/rubert-tiny-toxicity model on data from toxic_dataset_ner.
 
