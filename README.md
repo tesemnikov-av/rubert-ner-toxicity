@@ -6,6 +6,8 @@
 Fine-tuning [cointegrated/rubert-tiny-toxicity](https://huggingface.co/cointegrated/rubert-tiny-toxicity) model on on the [toxic_dataset_ner](https://huggingface.co/datasets/tesemnikov-av/toxic_dataset_ner) that I marked automatically .
 How i prepared dataset and fine-tuning the model, see [here.](https://github.com/tesemnikov-av/rubert-ner-toxicity/blob/main/Toxic_Russian_Comments.ipynb).
 
+Ниже вы можете увидеть пример использования модели:
+
 <img src="img.png" width="700"/>
 
 ```python
