@@ -3,8 +3,8 @@
 # RuBert NER Toxicity
 <img src="logo.png" width="150"/>
 
-Fine-tuning cointegrated/rubert-tiny-toxicity model on data from toxic_dataset_ner.
-How i prepared dataset and fine-tuning the model, see [here.](https://github.com/tesemnikov-av/rubert-ner-toxicity/blob/main/Toxic_Russian_Comments.ipynb).
+### Fine-tuning cointegrated/rubert-tiny-toxicity model on data from toxic_dataset_ner.
+###How i prepared dataset and fine-tuning the model, see [here.](https://github.com/tesemnikov-av/rubert-ner-toxicity/blob/main/Toxic_Russian_Comments.ipynb).
 
 <img src="img.png" width="700"/>
 
